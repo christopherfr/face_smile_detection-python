@@ -8,7 +8,7 @@ Created on Wed Jan 24 15:52:59 2018
 import cv2
 
 if __name__ == '__main__':
-    # Face and smile models (THESE ARE NOT MINE)
+    # Face and smile models (THESE ARE NOT MINE, READ THE COPYRIGHT IN THE XML FILES)
     faceCascade = cv2.CascadeClassifier('models/haarcascade_frontalface_default.xml')
     smileCascade = cv2.CascadeClassifier('models/haarcascade_smile.xml')
     
