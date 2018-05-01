@@ -1,4 +1,4 @@
-# opencv-ipcamera-face-smile
+# Face and smile detector
 Just a simple python script for detecting faces and smiles using the openCV library. The main purpose of this program was to test the openCV VideoCapture function with the "IP Camera" app on my Android phone, the face and smile detection is just a bonus.
 
 This script has been tested with the following IP camera apps:
